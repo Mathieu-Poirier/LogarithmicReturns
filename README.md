@@ -11,14 +11,15 @@ Mean accuracy test after 6000 epochs
 
 ## Usage
 
-Run these commands to try it for yourself!
+Run these commands to try it for yourself:
+```
+  cd 'your desired directory'
 
-cd 'your desired directory'
+  git clone https://github.com/Mathieu-Poirier/LogarithmicReturns
 
-git clone https://github.com/Mathieu-Poirier/LogarithmicReturns
+  cd LogarithmicReturns
 
-cd LogarithmicReturns
+  pip install numpy scipy matplotlib
 
-pip install numpy scipy matplotlib
-
-python plot_returns.py
+  python plot_returns.py
+```
