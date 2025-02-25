@@ -5,4 +5,4 @@ Smooth function estimation after 1000 epochs
 ![Figure displaying the function results](Figure_1.png)
 
 Mean accuracy test after 6000 epochs
-![Screenshot of IDE showing accuracy results after 6000 epochs](Live_test.png)
+![Screenshot of IDE showing accuracy results after 6000 epochs](Live_test.PNG)
