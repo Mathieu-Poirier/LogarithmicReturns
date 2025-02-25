@@ -12,8 +12,8 @@ Mean accuracy test after 6000 epochs
 ## Usage
 
 Run these commands to try it for yourself!
-> cd <your desired directory>
-> git clone https://github.com/Mathieu-Poirier/LogarithmicReturns
-> cd LogarithmicReturns
-> pip install numpy scipy matplotlib
-> python plot_returns.py
+cd <your desired directory>
+git clone https://github.com/Mathieu-Poirier/LogarithmicReturns
+cd LogarithmicReturns
+pip install numpy scipy matplotlib
+python plot_returns.py
